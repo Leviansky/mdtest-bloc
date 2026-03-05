@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607291245040",
+    "project_id": "mdtest-d9bde",
+    "storage_bucket": "mdtest-d9bde.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607291245040:android:8d856e0dd79ddd4d621d35",
+        "android_client_info": {
+          "package_name": "com.example.mdtestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCAFBvOFDSO4tEIv67ML5gDS1QS3jfG1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
